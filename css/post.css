@@ -1,0 +1,12 @@
+.content_title{
+    color:#f8688a;
+}
+.button_1_contain, .post_content_button_1{
+    background: linear-gradient(70deg,#f89ad2,#f86a9d,#f868a8);
+}
+.button_1_contain::before{
+    background-image: url(../images/2023_05_08/post_content_icon_button_1.webp);
+}
+.button_2_contain::before{
+    background-image: url(../images/2023_05_08/post_content_icon_button_2.webp);
+}
